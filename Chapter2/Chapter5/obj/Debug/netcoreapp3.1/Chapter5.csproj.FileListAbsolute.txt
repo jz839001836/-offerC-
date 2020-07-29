@@ -1,0 +1,13 @@
+E:\jianzhioffer C#\Chapter2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csprojAssemblyReference.cache
+E:\jianzhioffer C#\Chapter2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfoInputs.cache
+E:\jianzhioffer C#\Chapter2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfo.cs
+E:\jianzhioffer C#\Chapter2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csproj.CoreCompileInputs.cache
+E:\jianzhioffer C#\Chapter2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.exe
+E:\jianzhioffer C#\Chapter2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.deps.json
+E:\jianzhioffer C#\Chapter2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.runtimeconfig.json
+E:\jianzhioffer C#\Chapter2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.runtimeconfig.dev.json
+E:\jianzhioffer C#\Chapter2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.dll
+E:\jianzhioffer C#\Chapter2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.pdb
+E:\jianzhioffer C#\Chapter2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.dll
+E:\jianzhioffer C#\Chapter2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.pdb
+E:\jianzhioffer C#\Chapter2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.genruntimeconfig.cache
